@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="FirstScreenViewController">
+            <connections>
+                <outlet property="createAccountButton" destination="cKw-gd-id2" id="baM-Pg-Acs"/>
+                <outlet property="facebookButton" destination="VHW-LT-QJd" id="iJG-f6-pYA"/>
+                <outlet property="snapprintsButton" destination="QGw-3k-Wee" id="fzK-Aa-HJy"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="menu-slide-bg" translatesAutoresizingMaskIntoConstraints="NO" id="reo-rb-Rsh">
+                    <rect key="frame" x="0.0" y="0.0" width="321" height="568"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VHW-LT-QJd">
+                    <rect key="frame" x="67" y="513" width="186" height="35"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="35" id="6AS-Xc-ggs"/>
+                    </constraints>
+                    <state key="normal" backgroundImage="facebook_btn">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="facebookButtonTapped:" destination="-1" eventType="touchUpInside" id="6Ca-eB-Fav"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cKw-gd-id2">
+                    <rect key="frame" x="67" y="413" width="186" height="35"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="35" id="je3-h6-auh"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="CREATE AN ACCOUNT">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="signupTapped:" destination="-1" eventType="touchUpInside" id="zW8-eh-rTg"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QGw-3k-Wee">
+                    <rect key="frame" x="67" y="463" width="186" height="35"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="35" id="v47-e6-Ivr"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="LOGIN WITH SNAPprints">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="loginSnapprintsButtonPressed:" destination="-1" eventType="touchUpInside" id="KNU-IT-FWt"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo_login" translatesAutoresizingMaskIntoConstraints="NO" id="qHp-6T-YYM">
+                    <rect key="frame" x="84" y="147" width="153" height="123"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="123" id="nHG-q4-gaL"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="0.22352941176470587" green="0.6705882352941176" blue="0.90196078431372551" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="QGw-3k-Wee" firstAttribute="trailing" secondItem="VHW-LT-QJd" secondAttribute="trailing" id="10M-OH-6BI"/>
+                <constraint firstItem="QGw-3k-Wee" firstAttribute="leading" secondItem="cKw-gd-id2" secondAttribute="leading" id="6ca-3P-C4l"/>
+                <constraint firstItem="VHW-LT-QJd" firstAttribute="top" secondItem="QGw-3k-Wee" secondAttribute="bottom" constant="15" id="89R-45-9EY"/>
+                <constraint firstItem="QGw-3k-Wee" firstAttribute="top" secondItem="cKw-gd-id2" secondAttribute="bottom" constant="15" id="Ces-ao-6w2"/>
+                <constraint firstItem="cKw-gd-id2" firstAttribute="trailing" secondItem="QGw-3k-Wee" secondAttribute="trailing" id="J7g-S2-1gc"/>
+                <constraint firstAttribute="trailing" secondItem="qHp-6T-YYM" secondAttribute="trailing" constant="83" id="TxE-54-2K3"/>
+                <constraint firstItem="qHp-6T-YYM" firstAttribute="leading" secondItem="1" secondAttribute="leading" constant="84" id="W8V-UP-kHM"/>
+                <constraint firstAttribute="bottom" secondItem="VHW-LT-QJd" secondAttribute="bottom" constant="20" symbolic="YES" id="jqH-HC-6Ik"/>
+                <constraint firstItem="qHp-6T-YYM" firstAttribute="centerX" secondItem="cKw-gd-id2" secondAttribute="centerX" id="red-J1-bjc"/>
+                <constraint firstItem="QGw-3k-Wee" firstAttribute="leading" secondItem="VHW-LT-QJd" secondAttribute="leading" id="yuI-bQ-NqM"/>
+                <constraint firstItem="cKw-gd-id2" firstAttribute="top" secondItem="qHp-6T-YYM" secondAttribute="bottom" constant="143" id="zjg-bN-85j"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="facebook_btn" width="186" height="36"/>
+        <image name="logo_login" width="122" height="104"/>
+        <image name="menu-slide-bg" width="548" height="1091"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

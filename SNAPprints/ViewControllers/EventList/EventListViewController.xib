@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EventListViewController">
+            <connections>
+                <outlet property="activityIndicator" destination="DGp-qt-w7M" id="m7L-CD-jks"/>
+                <outlet property="btnReset" destination="Jgf-Rb-bYs" id="sOm-na-hk9"/>
+                <outlet property="headerTitle" destination="Yu0-7P-MwJ" id="C87-HE-xPZ"/>
+                <outlet property="searchDisplayController" destination="JgS-lE-6Rq" id="L4X-x4-9jx"/>
+                <outlet property="tableHeader" destination="ly3-Nc-Mkr" id="Eec-yA-iyq"/>
+                <outlet property="tableView" destination="SUB-yB-P2Z" id="LoC-nz-cXe"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="SUB-yB-P2Z">
+                    <rect key="frame" x="0.0" y="44" width="320" height="524"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="RHw-8w-oOZ"/>
+                        <outlet property="delegate" destination="-1" id="GT6-Ds-P0n"/>
+                    </connections>
+                </tableView>
+                <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="gray" id="DGp-qt-w7M">
+                    <rect key="frame" x="150" y="12" width="20" height="20"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="color" red="0.71410634569999998" green="0.71410634569999998" blue="0.71410634569999998" alpha="1" colorSpace="calibratedRGB"/>
+                </activityIndicatorView>
+                <searchBar contentMode="redraw" text="" placeholder="Search by zipcode or city" id="bDK-yX-mzW">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                    <textInputTraits key="textInputTraits"/>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="Ijm-76-EbI"/>
+                    </connections>
+                </searchBar>
+            </subviews>
+            <point key="canvasLocation" x="370" y="232"/>
+        </view>
+        <searchDisplayController id="JgS-lE-6Rq">
+            <connections>
+                <outlet property="delegate" destination="-1" id="QLK-iJ-C23"/>
+                <outlet property="searchBar" destination="bDK-yX-mzW" id="EZw-3q-bQG"/>
+                <outlet property="searchContentsController" destination="-1" id="8km-nZ-w6i"/>
+                <outlet property="searchResultsDataSource" destination="-1" id="Tn0-st-JUn"/>
+                <outlet property="searchResultsDelegate" destination="-1" id="j5P-AL-Wfr"/>
+            </connections>
+        </searchDisplayController>
+        <view contentMode="scaleToFill" id="ly3-Nc-Mkr">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="40"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Jgf-Rb-bYs">
+                    <rect key="frame" x="263" y="5" width="50" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.1764705882" green="0.69019607839999997" blue="0.94509803920000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" title="Reset">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="btnResetClicked:" destination="-1" eventType="touchUpInside" id="941-YX-flF"/>
+                    </connections>
+                </button>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Events Near Me" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Yu0-7P-MwJ">
+                    <rect key="frame" x="88" y="9" width="144" height="22"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-51" y="61"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

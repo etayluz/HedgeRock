@@ -1,0 +1,1281 @@
+TSSToolkitResources
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/./SSToolkitResources.bundle/Info.plist /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+cMkDir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+cCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+cTouch /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/./SSToolkitResources.bundle
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c00000000532E78130000000000000100
+t1395554323
+s256
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c00000000532E7813000000000000015E
+t1395554323
+s350
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c00000000532E7813000000000000036F
+t1395554323
+s879
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c00000000532E781300000000000004E0
+t1395554323
+s1248
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c00000000532E7813000000000000027C
+t1395554323
+s636
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c00000000532E781300000000000003C9
+t1395554323
+s969
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c00000000532E78130000000000000240
+t1395554323
+s576
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c00000000532E78130000000000000525
+t1395554323
+s1317
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c00000000532E78130000000000000248
+t1395554323
+s584
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c00000000532E7813000000000000053E
+t1395554323
+s1342
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c00000000532E7813000000000000008E
+t1395554323
+s142
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c00000000532E781300000000000000CC
+t1395554323
+s204
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c00000000532E7813000000000000008E
+t1395554323
+s142
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c00000000532E781300000000000000E7
+t1395554323
+s231
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button-mini.png
+c00000000532E7813000000000000012C
+t1395554323
+s300
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png
+c00000000532E781300000000000001FE
+t1395554323
+s510
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button.png
+c00000000532E7813000000000000015F
+t1395554323
+s351
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button@2x.png
+c00000000532E78130000000000000262
+t1395554323
+s610
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button-mini.png
+c00000000532E7813000000000000008E
+t1395554323
+s142
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png
+c00000000532E781300000000000000FC
+t1395554323
+s252
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button.png
+c00000000532E781300000000000000BB
+t1395554323
+s187
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button@2x.png
+c00000000532E781300000000000000FD
+t1395554323
+s253
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button-mini.png
+c00000000532E78130000000000000094
+t1395554323
+s148
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png
+c00000000532E781300000000000000ED
+t1395554323
+s237
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button.png
+c00000000532E781300000000000000AE
+t1395554323
+s174
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button@2x.png
+c00000000532E78130000000000000104
+t1395554323
+s260
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/gray-star.png
+c00000000532E78130000000000000DC4
+t1395554323
+s3524
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c00000000532E7813000000000000118E
+t1395554323
+s4494
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-check.png
+c00000000532E781300000000000001A1
+t1395554323
+s417
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c00000000532E78130000000000000299
+t1395554323
+s665
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-x.png
+c00000000532E781300000000000001BA
+t1395554323
+s442
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c00000000532E78130000000000000310
+t1395554323
+s784
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/orange-star.png
+c00000000532E78130000000000000EB3
+t1395554323
+s3763
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c00000000532E78130000000000001456
+t1395554323
+s5206
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button-mini.png
+c00000000532E78130000000000000106
+t1395554323
+s262
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png
+c00000000532E7813000000000000020E
+t1395554323
+s526
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button.png
+c00000000532E78130000000000000175
+t1395554323
+s373
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button@2x.png
+c00000000532E781300000000000002AE
+t1395554323
+s686
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button-mini.png
+c00000000532E78130000000000000116
+t1395554323
+s278
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png
+c00000000532E781300000000000002A4
+t1395554323
+s676
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button.png
+c00000000532E781300000000000001A2
+t1395554323
+s418
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button@2x.png
+c00000000532E78130000000000000317
+t1395554323
+s791
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button-mini.png
+c00000000532E781300000000000000D2
+t1395554323
+s210
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png
+c00000000532E78130000000000000135
+t1395554323
+s309
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button.png
+c00000000532E781300000000000000FC
+t1395554323
+s252
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button@2x.png
+c00000000532E78130000000000000170
+t1395554323
+s368
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+c00000000532E78130000000000000572
+t1395554323
+s1394
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c00000000532E78130000000000000369
+t1395554323
+s873
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c00000000532E78130000000000000352
+t1395554323
+s850
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c00000000532E78130000000000000374
+t1395554323
+s884
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c00000000532E78130000000000000361
+t1395554323
+s865
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c00000000532E78130000000000000361
+t1395554323
+s865
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c00000000532E7813000000000000035C
+t1395554323
+s860
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c00000000532E781300000000000005F0
+t1395554323
+s1520
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c00000000532E7813000000000000033A
+t1395554323
+s826
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c00000000532E78130000000000000370
+t1395554323
+s880
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c00000000532E78130000000000000376
+t1395554323
+s886
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c00000000532E7813000000000000035A
+t1395554323
+s858
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c00000000532E78130000000000000361
+t1395554323
+s865
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c00000000532E78130000000000000382
+t1395554323
+s898
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c00000000532E7813000000000000036C
+t1395554323
+s876
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c00000000532E7813000000000000035A
+t1395554323
+s858
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c00000000532E78130000000000000358
+t1395554323
+s856
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle
+t1395554340
+s2210
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+t1395554340
+s1197
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t1395554340
+s234
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t1395554340
+s414
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t1395554340
+s887
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t1395554340
+s1144
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t1395554340
+s482
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t1395554340
+s824
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+t1395554340
+s623
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t1395554340
+s1775
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t1395554340
+s611
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t1395554340
+s1623
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+t1395554340
+s183
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t1395554340
+s340
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t1395554340
+s182
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t1395554340
+s346
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+t1395554340
+s466
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+t1395554340
+s871
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+t1395554340
+s575
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+t1395554340
+s1062
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+t1395554340
+s180
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+t1395554340
+s395
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+t1395554340
+s249
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+t1395554340
+s378
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t1395554340
+s581
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t1395554340
+s306
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t1395554340
+s548
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+t1395554340
+s190
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+t1395554340
+s341
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+t1395554340
+s204
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+t1395554340
+s349
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t1395554340
+s489
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+t1395554340
+s3526
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+t1395554340
+s4956
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+t1395554340
+s393
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+t1395554340
+s629
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+t1395554340
+s442
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+t1395554340
+s818
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t1395554340
+s481
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t1395554340
+s530
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t1395554340
+s482
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t1395554340
+s474
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t1395554340
+s531
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t1395554340
+s522
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+t1395554340
+s3704
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+t1395554340
+s5221
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t1395554340
+s496
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t1395554340
+s501
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+t1395554340
+s262
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+t1395554340
+s935
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+t1395554340
+s610
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+t1395554340
+s1223
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t1395554340
+s608
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+t1395554340
+s278
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+t1395554340
+s1167
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+t1395554340
+s705
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+t1395554340
+s1371
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+t1395554340
+s275
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+t1395554340
+s394
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+t1395554340
+s330
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+t1395554340
+s456
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t1395554340
+s597
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t1395554340
+s515
+
+N/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t1395554340
+s504
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies853f53a4afdeb841^b4775ea4afdeb841^---0#1#1#--18"Check dependencies36"075E0740-A618-4333-B421-E501E12F44C2-
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+s417247140.469450
+e417247140.497169
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+xResources/Images/SSAddressBarTextFieldBackground.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png475878a4afdeb841^944b7fa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png0000000000000000^779"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png36"E4205ECA-4FE7-4F5B-B884-EE27A1568989-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+s417247140.469915
+e417247140.498120
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+xResources/Images/SSAddressBarTextFieldBackground@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png126878a4afdeb841^2f857fa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png0000000000000000^791"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png36"94AE808E-2A9B-4C7E-BA49-9F28B488CE3E-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+s417247140.470310
+e417247140.497991
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+xResources/Images/SSAddressBarTextFieldReload.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png668378a4afdeb841^fa7d7fa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png0000000000000000^763"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png36"CE5EF4CE-FEBB-4758-8978-5451D078083E-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+s417247140.470535
+e417247140.498539
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+xResources/Images/SSAddressBarTextFieldReload@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png539778a4afdeb841^b8af7fa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png0000000000000000^775"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png36"82EF271A-B227-4946-8748-2875F6CDAB29-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+s417247140.470842
+e417247140.496396
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+xResources/Images/SSAddressBarTextFieldStop.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.pngb2a078a4afdeb841^84477fa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png0000000000000000^755"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png36"771C5FE9-C908-411B-BE85-2DCDFC7FE058-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+s417247140.471248
+e417247140.498208
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+xResources/Images/SSAddressBarTextFieldStop@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png20b678a4afdeb841^65a77fa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png0000000000000000^767"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png36"B149FA5B-FDB0-4E4C-B65C-2E99041EDE26-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+s417247140.471594
+e417247140.500019
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+xResources/Images/UISegmentBarButton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png4ad378a4afdeb841^1f1080a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png0000000000000000^727"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png36"C3A692D0-F780-42E3-B702-7560769A5DF4-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+s417247140.471946
+e417247140.502968
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+xResources/Images/UISegmentBarButton@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.pngd6e178a4afdeb841^dfc480a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png0000000000000000^739"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png36"2260BC3F-DC92-42AE-AF99-5921ABEC545C-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+s417247140.496625
+e417247140.524627
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+xResources/Images/UISegmentBarButtonHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png05367fa4afdeb841^498486a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png0000000000000000^771"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png36"2AD91288-13B9-4853-984E-FC9E29E70090-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+s417247140.497610
+e417247140.526302
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+xResources/Images/UISegmentBarButtonHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png19927fa4afdeb841^d4d486a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png0000000000000000^783"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png36"ECAF02E9-CC5D-4D4B-AB20-16654B062F92-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+s417247140.498264
+e417247140.524254
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+xResources/Images/UISegmentBarDivider.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png96af7fa4afdeb841^498086a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png0000000000000000^731"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png36"592B5648-440E-4CD4-97AF-AFF793277B74-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+s417247140.498649
+e417247140.524786
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+xResources/Images/UISegmentBarDivider@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.pngb9c27fa4afdeb841^e38b86a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png0000000000000000^743"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png36"44BC1CA4-6E9D-49F3-9A13-EE1CE88658B9-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+s417247140.498961
+e417247140.525638
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+xResources/Images/UISegmentBarDividerHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.pngc4cf7fa4afdeb841^89d286a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png0000000000000000^775"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png36"15911C0A-D4FD-4C96-A495-24443C4C9E20-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+s417247140.499295
+e417247140.527341
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+xResources/Images/UISegmentBarDividerHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png99f47fa4afdeb841^b87587a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png0000000000000000^787"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png36"62088B54-7ABE-4089-84A9-E4D929423815-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+s417247140.500199
+e417247140.529125
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+xResources/Images/action-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png072980a4afdeb841^b37e87a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button-mini.png0000000000000000^727"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button-mini.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png36"67FA926E-1896-4755-AA14-2A76A897DAC1-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+s417247140.503157
+e417247140.535631
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+xResources/Images/action-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png13ef80a4afdeb841^7d2089a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png0000000000000000^739"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png36"50B48DA6-BE4E-43E5-A7DD-8A772E663A76-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+s417247140.524476
+e417247140.556502
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+xResources/Images/action-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png639986a4afdeb841^2d7b8ea4afdeb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button.png0000000000000000^707"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png36"E74B4EE7-0DF4-4939-93CF-74A9AD39D26D-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+s417247140.526090
+e417247140.557906
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+xResources/Images/action-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.pnga5c086a4afdeb841^9fe88ea4afdeb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button@2x.png0000000000000000^719"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/action-button@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png36"E0F1D7FE-3BC5-4D12-AFA1-044703248CC8-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+s417247140.527017
+e417247140.554994
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+xResources/Images/back-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png16fc86a4afdeb841^793b8ea4afdeb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button-mini.png0000000000000000^719"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button-mini.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png36"CBBB836B-B2AD-45B9-9175-2B589BD04C36-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+s417247140.530613
+e417247140.560606
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+xResources/Images/back-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png8ae887a4afdeb841^fd9f8fa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png0000000000000000^731"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png36"B529ED11-D036-4183-A267-E8DDD11CFE08-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+s417247140.531643
+e417247140.565552
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+xResources/Images/back-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.pngec2e88a4afdeb841^18cf90a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button.png0000000000000000^699"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png36"DA57C8AC-522A-4F61-BC80-D4ACFE206938-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+s417247140.532116
+e417247140.566504
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+xResources/Images/back-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png938c88a4afdeb841^a70791a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button@2x.png0000000000000000^711"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/back-button@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png36"5BD92935-99DE-49B6-92CA-C8431C8280D2-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+s417247140.534228
+e417247140.562899
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+xResources/Images/forward-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.pngcfdb88a4afdeb841^0b2490a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button-mini.png0000000000000000^731"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button-mini.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png36"B6CC9152-86AA-4FCA-BEFA-EA7FAFA024AA-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+s417247140.536975
+e417247140.569979
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+xResources/Images/forward-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png439289a4afdeb841^ffea91a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png0000000000000000^743"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png36"31767A8C-ACF3-47F8-BE9E-B149CE75D6B8-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+s417247140.555211
+e417247140.586544
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+xResources/Images/forward-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png93358ea4afdeb841^ed2c96a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button.png0000000000000000^711"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png36"0780E967-AE23-422F-9BA3-27919A1CC262-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+s417247140.556694
+e417247140.585102
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+xResources/Images/forward-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png96958ea4afdeb841^c9e795a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button@2x.png0000000000000000^723"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/forward-button@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png36"4C73B33E-C52E-4F0A-AEFB-696BBD5894AE-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+s417247140.381417
+e417247140.469563
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+xResources/Images/gray-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.pngbbb461a4afdeb841^994978a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/gray-star.png0000000000000000^691"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/gray-star.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png36"48E7FE3F-5A3A-4956-AE57-C71349A628BD-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+s417247140.381585
+e417247140.470896
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+xResources/Images/gray-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png89d361a4afdeb841^3b8d78a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/gray-star@2x.png0000000000000000^703"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/gray-star@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png36"3ED67FFD-274B-4390-BBBC-3C300C87993F-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+s417247140.379911
+e417247140.469198
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+xResources/Images/hud-check.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png245f61a4afdeb841^3a2178a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-check.png0000000000000000^691"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-check.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png36"28509BD1-0A34-4EE2-B8D5-2C2123E2B6B2-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+s417247140.380231
+e417247140.470065
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+xResources/Images/hud-check@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png3d6161a4afdeb841^935278a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-check@2x.png0000000000000000^703"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-check@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png36"01238743-AFF9-4796-A9F1-B6CF7E792317-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+s417247140.380702
+e417247140.469512
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+xResources/Images/hud-x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png1e8761a4afdeb841^914378a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-x.png0000000000000000^675"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png36"AA07AA30-147A-462B-A32F-EDBAA071F7D3-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+s417247140.381240
+e417247140.470139
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+xResources/Images/hud-x@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png75ad61a4afdeb841^ba6878a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-x@2x.png0000000000000000^687"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/hud-x@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png36"9B370090-39F6-430C-9D02-1330DDB12B71-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+s417247140.382079
+e417247140.469735
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+xResources/Images/orange-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.pngf50f62a4afdeb841^984d78a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/orange-star.png0000000000000000^699"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/orange-star.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png36"A888B843-41B5-4B75-80B6-E644D29B99B2-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+s417247140.382414
+e417247140.471039
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+xResources/Images/orange-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png6a1462a4afdeb841^fcaa78a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/orange-star@2x.png0000000000000000^711"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/orange-star@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png36"4252E4FF-61CB-4E0F-AF54-35A1FF325977-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+s417247140.558088
+e417247140.586934
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+xResources/Images/reload-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png55338fa4afdeb841^e08496a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button-mini.png0000000000000000^727"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button-mini.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png36"DDB11FA0-DBD5-4D62-869C-582B30E93C6C-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+s417247140.560817
+e417247140.590211
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+xResources/Images/reload-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.pngebab8fa4afdeb841^8d2a97a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png0000000000000000^739"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png36"07559BAC-E5D4-4A65-8332-8655DAD98D87-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+s417247140.563061
+e417247140.594576
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+xResources/Images/reload-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.pngc93a90a4afdeb841^185f98a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button.png0000000000000000^707"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png36"1DA3379A-B5C8-4489-96B0-B18D6248A184-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+s417247140.566242
+e417247140.598348
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+xResources/Images/reload-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.pnge2af91a4afdeb841^153899a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button@2x.png0000000000000000^719"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/reload-button@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png36"4E79699C-6CAC-42C8-9E02-9B9FAD3C539F-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+s417247140.566626
+e417247140.596276
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+xResources/Images/safari-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png142191a4afdeb841^9ca598a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button-mini.png0000000000000000^727"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button-mini.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png36"CAE750C9-637E-41C1-B06C-8748399B8CA8-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+s417247140.570986
+e417247140.602358
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+xResources/Images/safari-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png8a3f92a4afdeb841^a8349aa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png0000000000000000^739"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png36"DE4F7824-000D-4CFE-BB60-AC2778632C18-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+s417247140.585923
+e417247140.612725
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+xResources/Images/safari-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png5e6496a4afdeb841^f0db9ca4afdeb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button.png0000000000000000^707"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png36"E7DE4F4C-F2FC-4388-A7F0-BCCADD7093F1-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+s417247140.586723
+e417247140.614126
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+xResources/Images/safari-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png159096a4afdeb841^47389da4afdeb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button@2x.png0000000000000000^719"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/safari-button@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png36"7E9B7064-0B75-4FEC-8789-9EA04B08BE27-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+s417247140.587060
+e417247140.611701
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+xResources/Images/stop-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png7f6896a4afdeb841^bb9a9ca4afdeb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button-mini.png0000000000000000^719"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button-mini.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png36"CA4D3C14-A419-4CE7-B981-4D06C43C4BCC-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+s417247140.590404
+e417247140.614907
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+xResources/Images/stop-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.pnge14197a4afdeb841^f06a9da4afdeb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png0000000000000000^731"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png36"95CAFFB5-F6A2-40F4-9C3F-4278D49DEE45-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+s417247140.594932
+e417247140.617904
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+xResources/Images/stop-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.pnge96198a4afdeb841^062f9ea4afdeb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button.png0000000000000000^699"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png36"29B50301-B9CF-4B52-8025-CEB3FD10E701-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyPNGFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+s417247140.598341
+e417247140.619796
+r1
+xCopyPNGFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+xResources/Images/stop-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.pngea5899a4afdeb841^58ab9ea4afdeb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button@2x.png0000000000000000^711"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/Images/stop-button@2x.png /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png36"69CDBD1F-8D1B-4910-A58E-E3CEBF28CF4A-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+s417247140.375355
+e417247140.376483
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+xResources/de.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/de.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.stringsf32160a4afdeb841^c36660a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj -- Resources/de.lproj/SSToolkit.strings36"03BB32CE-3DC4-419B-B4B8-8E9A99FFFA9E-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+s417247140.375161
+e417247140.376486
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+xResources/en.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/en.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.stringsa01960a4afdeb841^bc7760a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj -- Resources/en.lproj/SSToolkit.strings36"9CC0915B-87F8-49B8-AEEA-52244940837B-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+s417247140.375499
+e417247140.376590
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+xResources/es.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/es.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.stringsbe3160a4afdeb841^878760a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj -- Resources/es.lproj/SSToolkit.strings36"73601B82-2BE7-4881-B02A-E28D67E47DAA-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+s417247140.375729
+e417247140.376981
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+xResources/fr.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/fr.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings184460a4afdeb841^e78c60a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj -- Resources/fr.lproj/SSToolkit.strings36"9F96C161-BE9C-4282-BEB7-8A7415DB7715-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+s417247140.375942
+e417247140.377820
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+xResources/id.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/id.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings115160a4afdeb841^8db860a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj -- Resources/id.lproj/SSToolkit.strings36"825A7DE0-9169-4FA5-B8AF-B7959E07D6FE-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+s417247140.376283
+e417247140.377828
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+xResources/it.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/it.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings267360a4afdeb841^4cc360a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj -- Resources/it.lproj/SSToolkit.strings36"AFA45281-F812-4963-A127-AC8DFE52AA69-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+s417247140.376617
+e417247140.378033
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+xResources/ja.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ja.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings8c8660a4afdeb841^aed360a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj -- Resources/ja.lproj/SSToolkit.strings36"866CB044-83D4-4D06-AFBA-4B061771B17F-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+s417247140.376688
+e417247140.378324
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+xResources/ko.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ko.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings128760a4afdeb841^04e360a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj -- Resources/ko.lproj/SSToolkit.strings36"31CE68F4-39A0-4EC3-939B-40926A5988BC-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+s417247140.377358
+e417247140.378744
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+xResources/ms.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ms.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.stringsebaa60a4afdeb841^1ff860a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj -- Resources/ms.lproj/SSToolkit.strings36"B2901945-48DD-48A1-982C-EF88DF830248-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+s417247140.377609
+e417247140.379209
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+xResources/nl.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/nl.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings5abc60a4afdeb841^7f1461a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj -- Resources/nl.lproj/SSToolkit.strings36"A8D896DE-1F0E-4150-B217-4F0D9416D2E2-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+s417247140.378384
+e417247140.379484
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+xResources/pt.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/pt.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.stringsd8f060a4afdeb841^9e2861a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj -- Resources/pt.lproj/SSToolkit.strings36"3EB3C7D4-86B1-43B3-ACBD-8FCCDB521E3E-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+s417247140.377841
+e417247140.379559
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+xResources/pt_PT.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Resources/pt_PT.lproj/SSToolkit.strings111"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings28ee60a4afdeb841^2e3a61a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings0000000000000000^645"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj -- Resources/pt_PT.lproj/SSToolkit.strings36"2CF201B3-8F47-4FEF-8C94-99B0AC2B8AE8-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+s417247140.378786
+e417247140.380116
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+xResources/ru.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ru.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings7c0d61a4afdeb841^8c4b61a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj -- Resources/ru.lproj/SSToolkit.strings36"29171833-F218-40BD-8CC1-98255123214D-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+s417247140.379047
+e417247140.381753
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+xResources/sv.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/sv.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings691d61a4afdeb841^dfbf61a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings0000000000000000^633"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj -- Resources/sv.lproj/SSToolkit.strings36"065A0028-83BB-4337-A477-FAF0D12380E9-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+s417247140.379293
+e417247140.380733
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+xResources/zh_Hans.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hans.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings3b3761a4afdeb841^2d7861a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings0000000000000000^653"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj -- Resources/zh_Hans.lproj/SSToolkit.strings36"9C801357-C640-4D80-9609-39151734DB2B-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CCopyStringsFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+s417247140.379547
+e417247140.381772
+r1
+xCopyStringsFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+xResources/zh_Hant.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings994861a4afdeb841^14cb61a4afdeb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^653"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"C207902C-C882-4E3B-B56C-71DB82625141-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CMkDir /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle
+r0
+
+CProcessInfoPlistFile /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/./SSToolkitResources.bundle/Info.plist /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+s417247140.371857
+e417247140.374484
+r1
+xProcessInfoPlistFile
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/./SSToolkitResources.bundle/Info.plist
+x/Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Process /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist99"ProcessInfoPlistFile ./SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist55885fa4afdeb841^94de5fa4afdeb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^918"ProcessInfoPlistFile ./SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/akozlik/.rvm/bin"    SSToolkitResources SSToolkitResources 10.7 4.0 1 /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk com.apple.compilers.llvm.clang.1_0 0500 5A11314m 11A4372q 11A4372q 13C64    builtin-infoPlistUtility /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist36"B1EA2C69-6C59-4410-99FB-B29E92162CE8-
+b8630D77A-2C4A-4423-AD83-8AFA0E79E43C
+
+CTouch /Users/akozlik/Documents/Code/iOS/SNAPprints/Pods/SSToolkit/./SSToolkitResources.bundle
+r0
+
